@@ -1,1 +1,2 @@
-# event-app
+# Event App
+Just a simple event application
